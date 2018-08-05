@@ -1,0 +1,2 @@
+05.08 ==> finished lesson 103. starting from 83 again because
+do not remember previous lessons well enough.(Redux from beginning.)
